@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Quizz App</string>
+    <string name="question_four">What is Roswell,New Mexico known for? </string>
+    <string name="question_two">Who is taught to have killed JFK? </string>
+    <string name="question_three">Who built the pyramids according to cospiracy theorists?</string>
+    <string name="question_five">Who killed Tupac?</string>
+    <string name="question_one">What are conspiracy theorist known for?</string>
+
+</resources>
